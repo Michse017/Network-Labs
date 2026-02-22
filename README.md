@@ -26,13 +26,6 @@ network-labs/
 └─ scripts/                      # Automation scripts if applicable
 ```
 
-## Labs
-
-| Lab | Topic | Description |
-|-----|-------|-------------|
-| [lab01-vlans](labs/lab01-vlans/README.md) | VLANs & Trunking | VLAN segmentation, trunk links, and inter-VLAN routing |
-| [lab02-ospf](labs/lab02-ospf/README.md) | OSPF Routing | OSPF single-area and multi-area configuration |
-
 ## How to Use
 
 1. Navigate to the desired lab folder under `labs/`.
