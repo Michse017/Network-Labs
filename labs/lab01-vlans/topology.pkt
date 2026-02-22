@@ -1,0 +1,11 @@
+# topology
+
+This file is a placeholder for the Cisco Packet Tracer simulation file (`topology.pkt`).
+
+## How to Obtain
+
+1. Open Cisco Packet Tracer 8.x or later.
+2. Build the topology described in [README.md](README.md).
+3. Save the file as `topology.pkt` in this directory.
+
+Alternatively, export the topology from an existing Packet Tracer project and place it here.
